@@ -1,0 +1,11 @@
+{
+     "name": "My Application",
+     "version": "0.0.1",
+     "dependencies": {
+         "requirejs": "latest",
+         "angular": "latest",
+         "angular-animate": "latest",
+         "angular-aria": "latest",
+         "angular-material": "latest"
+     }
+ }
